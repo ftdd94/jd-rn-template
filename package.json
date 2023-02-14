@@ -1,0 +1,8 @@
+{
+  "name": "@jiudao/react-native-template",
+  "version": "1.0.0",
+  "description": "Jiudao React Native Template",
+  "repository": "git@code.jiudaotech.com:app/react-native-template.git",
+  "author": "xiafeijie",
+  "license": "MIT"
+}
